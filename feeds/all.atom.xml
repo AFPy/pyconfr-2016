@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="http://2016.pycon.fr/" rel="alternate"></link><link href="http://2016.pycon.fr/feeds/all.atom.xml" rel="self"></link><id>http://2016.pycon.fr/</id><updated>2016-05-05T00:00:00+02:00</updated><entry><title>Lancement des festivités</title><link href="http://2016.pycon.fr/ouverture-site-internet.html" rel="alternate"></link><published>2016-05-05T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-05-05:ouverture-site-internet.html</id><summary type="html">&lt;img alt="Entrée de l'incubateur tout neuf de Telecom-Bretagne à Rennes" class="align-center" src="http://2016.pycon.fr/images/incubateur-telecom-bretagne.jpg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="http://2016.pycon.fr/" rel="alternate"></link><link href="http://2016.pycon.fr/feeds/all.atom.xml" rel="self"></link><id>http://2016.pycon.fr/</id><updated>2016-05-05T00:00:00+02:00</updated><entry><title>Lancement des festivités</title><link href="http://2016.pycon.fr/ouverture-site-internet.html" rel="alternate"></link><published>2016-05-05T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-05-05:ouverture-site-internet.html</id><summary type="html">&lt;img alt="Entrée de l'incubateur tout neuf de Télécom Bretagne à Rennes" class="align-center" src="http://2016.pycon.fr/images/incubateur-telecom-bretagne.jpg" /&gt;
 &lt;div class="section" id="une-date-et-un-lieu"&gt;
 &lt;h2&gt;Une date et un lieu&lt;/h2&gt;
 &lt;p&gt;Nous avions commencé il y a quelques mois à visiter de nombreux lieux
 pour trouver où organiser la PyCon-fr 2016 à Rennes et c'est avec
 grand plaisir que nous serons accueilli dans les locaux de
-Telecom-Bretagne du 13 au 16 octobre 2016.&lt;/p&gt;
+Télécom Bretagne du 13 au 16 octobre 2016.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="pages/venir.html#carte"&gt;Voir la carte&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="qu-est-ce-que-pycon-fr"&gt;
