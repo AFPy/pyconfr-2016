@@ -1,5 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="https://2016.pycon.fr/" rel="alternate"></link><link href="https://2016.pycon.fr/feeds/all-fr.atom.xml" rel="self"></link><id>https://2016.pycon.fr/</id><updated>2016-05-05T00:00:00+02:00</updated><entry><title>Lancement des festivités</title><link href="https://2016.pycon.fr/ouverture-site-internet.html" rel="alternate"></link><published>2016-05-05T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-05-05:ouverture-site-internet.html</id><summary type="html">&lt;img alt="Entrée de l'incubateur tout neuf de Télécom Bretagne à Rennes" class="align-center" src="https://2016.pycon.fr/images/incubateur-telecom-bretagne.jpg" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="https://2016.pycon.fr/" rel="alternate"></link><link href="https://2016.pycon.fr/feeds/all-fr.atom.xml" rel="self"></link><id>https://2016.pycon.fr/</id><updated>2016-06-20T00:00:00+02:00</updated><entry><title>Appel à conférences et ateliers</title><link href="https://2016.pycon.fr/appel-a-conferences-et-ateliers.html" rel="alternate"></link><published>2016-06-20T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-06-20:appel-a-conferences-et-ateliers.html</id><summary type="html">&lt;p&gt;Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
+pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
+au cours d'ateliers, de conférences et de rencontres.&lt;/p&gt;
+&lt;div class="section" id="venir-decouvrir"&gt;
+&lt;h2&gt;Venir découvrir&lt;/h2&gt;
+&lt;p&gt;La &lt;a class="reference external" href="https://2016.pycon.fr/"&gt;PyCon-fr&lt;/a&gt; est le meilleur moyen de découvrir le langage Python,
+d'aller plus loin dans son utilisation, de rencontrer les auteurs de
+bibliothèques que vous utilisez peut-être tous les jours...  et tout
+simplement de se retrouver le temps d'un week-end.  La &lt;a class="reference external" href="https://2016.pycon.fr/"&gt;PyCon-fr&lt;/a&gt;,
+c'est 300 visiteurs en moyenne chaque jour, et pas moins de 70
+conférences et ateliers :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Les conférences, de tous niveaux, permettent de découvrir différents usages de Python,&lt;/li&gt;
+&lt;li&gt;Les &amp;quot;sprints&amp;quot; (ateliers auto-organisés de programmation) permettent de faire avancer des projets libres et Open Source.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;À titre d'exemple, l'an dernier, les associations Bibliothèque
+Sans-Frontières et l'OCA ont pu bénéficier de l'aide de codeurs
+débutants et chevronnés.&lt;/p&gt;
+&lt;p&gt;Cette année, nous serons toutes et tous réunis à Rennes, dans les locaux de Télécom Bretagne, du 13 au 16 octobre 2016.&lt;/p&gt;
+&lt;p&gt;Les sprints auront lieu les &lt;strong&gt;jeudi 13&lt;/strong&gt; et &lt;strong&gt;vendredi 14&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Les conférences et ateliers se dérouleront &lt;strong&gt;samedi 15&lt;/strong&gt; et &lt;strong&gt;dimanche 16&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="venir-aider"&gt;
+&lt;h2&gt;Venir aider&lt;/h2&gt;
+&lt;p&gt;Vous avez une expérience autour de Python à partager ?&lt;/p&gt;
+&lt;p&gt;Vous souhaitez présenter votre dernier projet à la communauté ?&lt;/p&gt;
+&lt;p&gt;Demander de l'aide et/ou exposer vos doutes ? C'est le bon moment.&lt;/p&gt;
+&lt;p&gt;L'appel à oratrices et orateurs est ouvert jusqu'au 31 juillet !&lt;/p&gt;
+&lt;p&gt;Voici quelques suggestions de thèmes issus des éditions précédentes :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python dans l'éducation : trucs et astuces pour débuter ou enseigner avec Python&lt;/li&gt;
+&lt;li&gt;Internet, le Web, la montée en charge et Python&lt;/li&gt;
+&lt;li&gt;Clguba et la crypto : chiffrement et vie privée&lt;/li&gt;
+&lt;li&gt;Python scientifique : calcul scientifique et statistique, machine Learning&lt;/li&gt;
+&lt;li&gt;Au cœur de Python : packaging, librairies, tests, profiling, bindings&lt;/li&gt;
+&lt;li&gt;Autour de Python : Provisioning, Bases de données, Framework Javascript&lt;/li&gt;
+&lt;li&gt;Python dans le réel : Fabrication numérique (impression 3D, CNC, IoT, ...)&lt;/li&gt;
+&lt;li&gt;Python dans le futur : Pypy, Python3 et asyncio&lt;/li&gt;
+&lt;li&gt;Le libre avec Python: vos créations&lt;/li&gt;
+&lt;li&gt;Et surtout, toutes les propositions ne rentrant pas dans ces cases ;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Que vous soyez une utilisatrice chevronnée ou simplement à la
+découverte de Python, n'hésitez pas à proposer un sujet : &lt;a class="reference external" href="https://2016.pycon.fr/"&gt;PyCon-fr&lt;/a&gt;,
+c'est avant tout vous :)&lt;/p&gt;
+&lt;p&gt;Nous acceptons des présentations longues (45mn) et courtes (25mn) et
+des ateliers (à vous de nous préciser leur durée en fonction du
+besoin).  Lien pour nous faire vos propositions : &lt;a class="reference external" href="https://www.fourmilieres.net/#/form/cae778e834c645b9"&gt;fourmiliere.net&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Attention, la date limite est fixée au &lt;strong&gt;17 juillet&lt;/strong&gt; !&lt;/p&gt;
+&lt;p&gt;En espérant crouler sous les propositions,&lt;/p&gt;
+&lt;p&gt;L'équipe d'organisation&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pierre, Mathieu, Yann, Alexis et Rémy&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Lancement des festivités</title><link href="https://2016.pycon.fr/ouverture-site-internet.html" rel="alternate"></link><published>2016-05-05T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-05-05:ouverture-site-internet.html</id><summary type="html">&lt;img alt="Entrée de l'incubateur tout neuf de Télécom Bretagne à Rennes" class="align-center" src="https://2016.pycon.fr/images/incubateur-telecom-bretagne.jpg" /&gt;
 &lt;div class="section" id="une-date-et-un-lieu"&gt;
 &lt;h2&gt;Une date et un lieu&lt;/h2&gt;
 &lt;p&gt;Nous avions commencé il y a quelques mois à visiter de nombreux lieux
