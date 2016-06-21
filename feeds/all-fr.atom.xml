@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="https://2016.pycon.fr/" rel="alternate"></link><link href="https://2016.pycon.fr/feeds/all-fr.atom.xml" rel="self"></link><id>https://2016.pycon.fr/</id><updated>2016-06-20T00:00:00+02:00</updated><entry><title>Appel à conférences et ateliers</title><link href="https://2016.pycon.fr/appel-a-conferences-et-ateliers.html" rel="alternate"></link><published>2016-06-20T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-06-20:appel-a-conferences-et-ateliers.html</id><summary type="html">&lt;p&gt;Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="https://2016.pycon.fr/" rel="alternate"></link><link href="https://2016.pycon.fr/feeds/all-fr.atom.xml" rel="self"></link><id>https://2016.pycon.fr/</id><updated>2016-06-20T00:00:00+02:00</updated><entry><title>Appel à conférences et ateliers</title><link href="https://2016.pycon.fr/appel-a-conferences-et-ateliers.html" rel="alternate"></link><published>2016-06-20T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-06-20:appel-a-conferences-et-ateliers.html</id><summary type="html">&lt;p&gt;tl;dr: L'appel à conférences et ateliers est maintenant ouvert, n'hésitez pas
+à &lt;a class="reference external" href="https://www.fourmilieres.net/#/form/cae778e834c645b9"&gt;proposer quelque chose&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
 pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
 au cours d'ateliers, de conférences et de rencontres.&lt;/p&gt;
 &lt;div class="section" id="venir-decouvrir"&gt;
@@ -18,11 +20,11 @@ conférences et ateliers :&lt;/p&gt;
 Sans-Frontières et l'OCA ont pu bénéficier de l'aide de codeurs
 débutants et chevronnés.&lt;/p&gt;
 &lt;p&gt;Cette année, nous serons toutes et tous réunis à Rennes, dans les locaux de Télécom Bretagne, du 13 au 16 octobre 2016.&lt;/p&gt;
-&lt;p&gt;Les sprints auront lieu les &lt;strong&gt;jeudi 13&lt;/strong&gt; et &lt;strong&gt;vendredi 14&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Les conférences et ateliers se dérouleront &lt;strong&gt;samedi 15&lt;/strong&gt; et &lt;strong&gt;dimanche 16&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Les sprints auront lieu les &lt;strong&gt;jeudi 13&lt;/strong&gt; et &lt;strong&gt;vendredi 14&lt;/strong&gt; Octobre.&lt;/p&gt;
+&lt;p&gt;Les conférences et ateliers se dérouleront &lt;strong&gt;samedi 15&lt;/strong&gt; et &lt;strong&gt;dimanche 16&lt;/strong&gt; Octobre.&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class="section" id="venir-aider"&gt;
-&lt;h2&gt;Venir aider&lt;/h2&gt;
+&lt;div class="section" id="votre-conference"&gt;
+&lt;h2&gt;Votre conférence&lt;/h2&gt;
 &lt;p&gt;Vous avez une expérience autour de Python à partager ?&lt;/p&gt;
 &lt;p&gt;Vous souhaitez présenter votre dernier projet à la communauté ?&lt;/p&gt;
 &lt;p&gt;Demander de l'aide et/ou exposer vos doutes ? C'est le bon moment.&lt;/p&gt;
@@ -45,7 +47,8 @@ découverte de Python, n'hésitez pas à proposer un sujet : &lt;a class="refere
 c'est avant tout vous :)&lt;/p&gt;
 &lt;p&gt;Nous acceptons des présentations longues (45mn) et courtes (25mn) et
 des ateliers (à vous de nous préciser leur durée en fonction du
-besoin).  Lien pour nous faire vos propositions : &lt;a class="reference external" href="https://www.fourmilieres.net/#/form/cae778e834c645b9"&gt;fourmiliere.net&lt;/a&gt;.&lt;/p&gt;
+besoin).&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.fourmilieres.net/#/form/cae778e834c645b9"&gt;Faites-nous vos propositions de talks / ateliers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Attention, la date limite est fixée au &lt;strong&gt;31 juillet&lt;/strong&gt; !&lt;/p&gt;
 &lt;p&gt;En espérant crouler sous les propositions,&lt;/p&gt;
 &lt;p&gt;L'équipe d'organisation&lt;/p&gt;
