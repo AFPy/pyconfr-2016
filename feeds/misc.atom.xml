@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="https://2016.pycon.fr/" rel="alternate"></link><link href="https://2016.pycon.fr/feeds/misc.atom.xml" rel="self"></link><id>https://2016.pycon.fr/</id><updated>2016-06-20T00:00:00+02:00</updated><entry><title>Appel à conférences et ateliers</title><link href="https://2016.pycon.fr/appel-a-conferences-et-ateliers.html" rel="alternate"></link><published>2016-06-20T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-06-20:appel-a-conferences-et-ateliers.html</id><summary type="html">&lt;p&gt;tl;dr &lt;a class="footnote-reference" href="#id2" id="id1"&gt;[1]&lt;/a&gt;: L'appel à conférences et ateliers est maintenant ouvert, n'hésitez pas
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyCon-fr 2016</title><link href="https://2016.pycon.fr/" rel="alternate"></link><link href="https://2016.pycon.fr/feeds/misc.atom.xml" rel="self"></link><id>https://2016.pycon.fr/</id><updated>2016-07-12T00:00:00+02:00</updated><entry><title>On vous aide à travailler sur vos conférences et/ou ateliers</title><link href="https://2016.pycon.fr/aide-pour-travailler-sur-vos-conferences.html" rel="alternate"></link><published>2016-07-12T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-07-12:aide-pour-travailler-sur-vos-conferences.html</id><summary type="html">&lt;p&gt;La PyCon-fr est ouverte aux conférencier-e-s de toute expérience.&lt;/p&gt;
+&lt;p&gt;Il n'est pas toujours facile de préparer un atelier ou une conférence
+et cela peut sembler intimidant.&lt;/p&gt;
+&lt;p&gt;Nous souhaitons faire en sorte que quiconque soit prêt à franchir le
+cap.  Ainsi, vous pouvez demander l'aide d'un-e tuteur-trice pour la
+préparation de votre conférence et/ou atelier.&lt;/p&gt;
+&lt;p&gt;Le tuteur vous aidera à :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;rédiger le plan et la proposition&lt;/li&gt;
+&lt;li&gt;écrire les diapos et le texte qui sera dit&lt;/li&gt;
+&lt;li&gt;répéter la présentation, la calibrer en longueur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Outre quelques surprises offertes le jour J, présenter un atelier ou
+une conférence vous permettra de :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;partager votre bibliothèque ou projet préféré&lt;/li&gt;
+&lt;li&gt;recueillir des idées&lt;/li&gt;
+&lt;li&gt;échanger sur un thème qui vous tient à cœur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La date limite approchant (c'est le 31 juillet), n'hésitez pas à remplir dès maintenant le &lt;a class="reference external" href="https://www.fourmilieres.net/#/form/cae778e834c645b9"&gt;formulaire de propositions&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;Pour demander de l'aide ou obtenir plus d'informations, il suffit
+d'envoyer un mail à &lt;a class="reference external" href="mailto:contact&amp;#64;pycon.fr"&gt;contact&amp;#64;pycon.fr&lt;/a&gt;.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Envie d'aider ?&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez devenir un-e tuteur-trice, vous pouvez envoyez un mail
+à &lt;a class="reference external" href="mailto:contact&amp;#64;pycon.fr"&gt;contact&amp;#64;pycon.fr&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On attend d'un tuteur une aide sous la forme :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;d'une motivation « où en es-tu ? »&lt;/li&gt;
+&lt;li&gt;d'une relecture / écoute quand c'est possible&lt;/li&gt;
+&lt;li&gt;d'une assistance technique si nécessaire et possible&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Appel à conférences et ateliers</title><link href="https://2016.pycon.fr/appel-a-conferences-et-ateliers.html" rel="alternate"></link><published>2016-06-20T00:00:00+02:00</published><author><name></name></author><id>tag:2016.pycon.fr,2016-06-20:appel-a-conferences-et-ateliers.html</id><summary type="html">&lt;p&gt;tl;dr &lt;a class="footnote-reference" href="#id2" id="id1"&gt;[1]&lt;/a&gt;: L'appel à conférences et ateliers est maintenant ouvert, n'hésitez pas
 à &lt;a class="reference external" href="https://www.fourmilieres.net/#/form/cae778e834c645b9"&gt;proposer quelque chose&lt;/a&gt; !&lt;/p&gt;
 &lt;p&gt;Depuis 2007 grâce à l'AFPy, les utilisateurs francophones du langage Python se retrouvent le temps de quelques jours
 pour échanger autour de leurs expériences, apprendre les uns des autres et se présenter leurs dernières trouvailles
