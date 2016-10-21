@@ -714,7 +714,9 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="description">Topic Modelling is an information retrieval technique to identify key topics in a large corpus of text documents. It is a very handy technique to model unstructured textual data, and is used heavily in both industry and in research to both understand trends in textual data and analyse new documents via their topics.
           Gensim is an open-source python NLP framework which provides an API to do robust, industry-grade Topic Modelling which is memory independent and super fast, while being very simple to use.
           The best part of gensim and python for Topic Modelling is it’s ease of usage and effectiveness. I would propose a small talk to explain how to effectively do topic modelling in python using Gensim framework- especially - after identifying topics from a large dataset, and then leveraging to perform un-supervised clustering, colouring topic-words in a document, and better understanding textual data for subsequent usage. All of this will be supported with examples from research and industry.
-           [ My relationship with Gensim is through the Google Summer of Code 2016 program, where I am implementing Dynamic Topic Models for them ]</div>
+           [ My relationship with Gensim is through the Google Summer of Code 2016 program, where I am implementing Dynamic Topic Models for them ]
+		   <br /><a href="http://www.demo.openveo.com/publish/video/r19ZYySke?fullscreen&lang=en">Watch the video</a>
+		   </div>
 
           <div class="title" id="Qt et Asyncio avec Quamash">Qt et Asyncio avec Quamash</div>
           <div class="description">Asyncio est un modèle asynchrone générique basé sur des event-loop. Il permet de s’interfacer avec n’importe quelle autre librairie proposant un mécanisme d’event-loop.
