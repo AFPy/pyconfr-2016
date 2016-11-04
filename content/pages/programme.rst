@@ -821,8 +821,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
                       #Assert
                       for participant in participants:
                           assert participant.a_appris_un_truc_sur_les_tests
-
-          Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.</div>
+</div>
 
 
           <div class="title" id="Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</div>
