@@ -318,7 +318,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Le mainteneur du projet Sylvain Zimmer sera présent pour aider les gens de tous les niveaux à faire leur première contribution. Grâce à des images Docker toutes prêtes et une liste d'issues sur GitHub bien remplie, vous pourrez envoyer votre première Pull Request en moins d'une heure !</div>
 
           <div class="title" id="Rust">Memory Safety with Rust</div>
-          <div class="description"><br /><a href="https://www.pycon.fr/2016/videos/memory-safety-with-rust.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1U1MxHJl/thumbnail.jpg"></div><div class="video-label">Watch "Memory Safety with Rust"</div></a></div>
+          <div class="description"><br /><a href="https://www.pycon.fr/2016/videos/memory-safety-with-rust.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1U1MxHJl/thumbnail.jpg"></div><div class="video-label">Regarder "Memory Safety with Rust"</div></a></div>
 
           <div class="title" id="Mise à jour des benchmarks AsyncIO de TechEmpower">Mise à jour des benchmarks AsyncIO de TechEmpower</div>
           <div class="description"><a href="https://www.techempower.com/benchmarks/">TechEmpower Benchmarks suite</a> essaie de comparer 162 frameworks Web pour faire des APIs REST/JSON.
@@ -488,7 +488,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           - filtrage
           - gestion des relations entre les données
           La connaissance de base de Django est un pré-requis.
-          <br /><a href="https://www.pycon.fr/2016/videos/creer-une-api-publique-avec-django-rest-framework.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJReoHrJe/thumbnail.jpg"></div><div class="video-label">Watch "Créer une API publique avec Django Rest Framework"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/creer-une-api-publique-avec-django-rest-framework.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJReoHrJe/thumbnail.jpg"></div><div class="video-label">Regarder "Créer une API publique avec Django Rest Framework"</div></a></div>
 
           <div class="title" id="interface graphique moderne En Qt avec python">interface graphique moderne En Qt avec python</div>
           <div class="description">Création d'interface bureau et mobile à l'aide du framework Qt . l'approche en Python sera traitée et le langage QML sera présenté.</div>
@@ -510,7 +510,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           - The progress that has been made so far and the challenges the team is facing.
           - How the wider Python community can help move Warehouse (and Python packaging) forward.
           This talk will be presented in English.
-          <br /><a href="https://www.pycon.fr/2016/videos/warehouse-the-future-of-pypi.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJ6ZOSHyx/thumbnail.jpg"></div><div class="video-label">Watch "Warehouse - the future of PyPI"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/warehouse-the-future-of-pypi.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJ6ZOSHyx/thumbnail.jpg"></div><div class="video-label">Regarder "Warehouse - the future of PyPI"</div></a></div>
 
 
           <div class="title" id="Outils d'analyse statique">Outils d'analyse statique</div>
@@ -524,14 +524,14 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
             Zabbix (made in latvia) nous permet grâce à son agent multi-plateforme de monitorer un grand nombre d'équipements et de services, d’exécuter du code, de faire des calins.
             Le but est de relever les métriques rapidement et avec une emprunte système la plus légère possible. C'est ici que Python nous aide à atteindre cet objectif en s'interfaçant avec l'agent Zabbix.
             Une fois les métriques collectées, insérons les dans un outils de graph sexy et construisons des dashboards pour les décideurs pressés.
-          <br /><a href="https://www.pycon.fr/2016/videos/jolies-metriques-coordonner-python-et-zabbix.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rksbw2vke/thumbnail.jpg"></div><div class="video-label">Watch "Jolies Métriques : Coordonner Python et Zabbix"</div></a>
+          <br /><a href="https://www.pycon.fr/2016/videos/jolies-metriques-coordonner-python-et-zabbix.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rksbw2vke/thumbnail.jpg"></div><div class="video-label">Regarder "Jolies Métriques : Coordonner Python et Zabbix"</div></a>
           </div>
 
           <div class="title" id="Développeur durable">Développeur durable</div>
           <div class="description">Où vous voyez-vous dans 10 ans ? Vivrez-vous le rêve américain ? Élèverez-vous plutôt des chèvres en Lozère ? Récupèrerez-vous de votre 3e burnout ? Serez-vous (enfin) chef de projet ? Ou plutôt lead developer dans une entreprise libérée ?
           Quoi qu'il en soit, serez-vous heureux ?
           Cette conférence interroge notre métier, son impact social et environnemental ainsi que notre recherche personnelle de sérénité. Puis elle invite à échanger des pistes, individuelles ou collectives, pour aider chacun à choisir son propre chemin.
-          <br /><a href="https://www.pycon.fr/2016/videos/developpeur-durable.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJj70kBke/thumbnail.jpg"></div><div class="video-label">Watch "Développeur durable"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/developpeur-durable.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJj70kBke/thumbnail.jpg"></div><div class="video-label">Regarder "Développeur durable"</div></a></div>
 
           <div class="title" id="GAST, daou naer - AST pour Python 2 et 3">GAST, daou naer - AST pour Python 2 et 3</div>
           <div class="description">Va doué, qui veut construire un code qui va avec le module ast, et compatible
@@ -541,18 +541,20 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           abstraction l'AST de Python2 et celui de Python3. Après une présentation de
           cette abstraction, on fera un tour dans son implémentation, une petite
           lichouserie pythonesque, où introspection, tox, meta-programmation et évaluation
-          retardée se retrouvent pour une petite chouille de moins de 500 lignes.</div>
+          retardée se retrouvent pour une petite chouille de moins de 500 lignes.
+          <br /><a href="https://www.pycon.fr/2016/videos/gast-daou-naer-ast-pour-python-2-et-3.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJGycEBkg/thumbnail.jpg"></div><div class="video-label">Regarder "GAST, daou naer - AST pour Python 2 et 3"</div></a></div>
 
           <div class="title" id="Import et Compagnie">Import et Compagnie</div>
           <div class="description">et hop, "import antigravity", la magie de python résumé en deux mots. mais au fait, comment ça marche ? non, pas l'anti-gravité ça tout le monde l'apprend à l'école. Comment marche les imports en python.
-          Plongeon ensemble dans les entrailles de la bête pour découvrir les bases de cette mécanique, indispensable. une fois un peu plus famillié avec les forces et les faiblesses du système, nous verrons comment nous usons et abusons de sa flexibilité dans le gestionnaire de version Mercurial. Qui n'a jamais rêvé d'importer son code Python 2 directement avec Python 3 ?</div>
+          Plongeon ensemble dans les entrailles de la bête pour découvrir les bases de cette mécanique, indispensable. une fois un peu plus famillié avec les forces et les faiblesses du système, nous verrons comment nous usons et abusons de sa flexibilité dans le gestionnaire de version Mercurial. Qui n'a jamais rêvé d'importer son code Python 2 directement avec Python 3 ?
+          <br /><a href="https://www.pycon.fr/2016/videos/import-et-compagnie.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJoAkBSkg/thumbnail.jpg"></div><div class="video-label">Regarder "Import et Compagnie"</div></a></div>
 
           <div class="title" id="Et si on réécrivait Google en Python ?">Et si on réécrivait Google en Python ?</div>
           <div class="description">Cette année, le premier crawler de Google (écrit en Python 1.2 !) fête ses 20 ans ... Il a depuis longtemps été remplacé par des versions en C++, mais comment s'y prendrait-on, en 2016, s'il fallait tout recommencer de zéro ?
           Je présenterais en premier temps l'architecture classique des moteurs de recherche (du crawler au frontend) et son évolution depuis le fameux papier de recherche présentant Google en 1998.
           Je ferais ensuite un tour d'horizon des langages et projets open source les plus adaptés aujourd'hui pour chacun des composants, ainsi que les choix faits pour Common Search, un nouveau moteur de recherche open source écrit principalement en Python.
           Le but de cette présentation est d'apprendre comment fonctionne un moteur de recherche de l'intérieur, ainsi que de réfléchir aux problèmes pour lesquels Python est ou n'est pas une bonne solution.
-          <br /><a href="https://www.pycon.fr/2016/videos/et-si-on-reecrivait-google-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S19R0JH1x/thumbnail.jpg"></div><div class="video-label">Watch "Et si on réécrivait Google en Python ?"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/et-si-on-reecrivait-google-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S19R0JH1x/thumbnail.jpg"></div><div class="video-label">Regarder "Et si on réécrivait Google en Python ?"</div></a></div>
 
           <div class="title" id="Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</div>
           <div class="description">Mapping Learning est à la fois une application et projet éducatif, et présente deux objectifs :
@@ -571,19 +573,19 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <div class="title" id="Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</div>
           <div class="description">Les protocoles de communication jouent un rôle majeur dans l'établissement d'une communication entre les différents composants des systèmes informatiques. Malheureusement, il est bien connu que les protocoles de communication peuvent être vulnérables aux attaques. Certaines de ces attaques dépendant de faiblesses introduites (in)volontairements dans leurs implémentations. Ces travaux proposent une solution pratique permettant d'identifier ces faiblesses en utilisant le language Python.
           Cette présentation s'attachera à illustrer l'emploi de bibliothèques Python dédiées à la rétro-conception de protocoles tels que Netzob et Pylstar. Il sera notamment présenté comment les utiliser pour 1) extraire la machine à états d'une implémentation en boite noire et 2) comparer les machines à états de plusieurs implémentations d'un même protocole pour rechercher des vulnérabilités. Le protocole HTTP2 servira d'exemple.
-          <br /><a href="https://www.pycon.fr/2016/videos/python-for-secops-recherche-de-vulnerabilites-dans-les-implementations-dun-protocole.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/Sy-97rFyx/thumbnail.jpg"></div><div class="video-label">Watch "Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/python-for-secops-recherche-de-vulnerabilites-dans-les-implementations-dun-protocole.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/Sy-97rFyx/thumbnail.jpg"></div><div class="video-label">Regarder "Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole"</div></a></div>
 
           <div class="title" id="WebPush notifications What? Why? How?">WebPush notifications What? Why? How?</div>
           <div class="description">We all might know what push notifications are, having been a popular feature of mobile platforms for years. However, it is a recent adoption in the web platform and the features are constantly evolving. By the end of this talk, we’ll have an understanding of what real-time web push notifications are, how do they work, and how can we make the best use of it, including news features like payload encryption and ttl headers.
           Web push is a permission based technology that notifies a user of new messages or events even when they’re not actively using the application. Push notifications are a hit among all the social media websites, like Facebook, Instagram, Twitter, and it’s not hard to see why. Besides that, they are also very popular in cloud based data management, e-commerce websites, e-mail services, sports and auctions, and the list could go on. In this talk, we’ll see a little behind-the-scences working of this technology, starting from the handling the user’s subscription by the Push API, generating a push message when some action is triggered, to handling of the message by the Service Worker API, and finally dealing with the notification display using the Notification API.
-          <br /><a href="https://www.pycon.fr/2016/videos/webpush-notification-what-why-how.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryRNdBBke/thumbnail.jpg"></div><div class="video-label">Watch "Webpush notification What? Why? How?"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/webpush-notification-what-why-how.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryRNdBBke/thumbnail.jpg"></div><div class="video-label">Regarder "Webpush notification What? Why? How?"</div></a></div>
 
 
           <div class="title" id="Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés">Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés</div>
           <div class="description">Nous voudrions tous avoir à notre disposition les ressources pour tester notre code en profondeur, mais l'écriture des tests n'est souvent pas une tâche aisée et obtenir une bonne couverture est un processus chronophage. Les tests basés sur les propriétés ont pour objectif de proposer une solution à ce problème. Popularisé par la bibliothèque la Quickcheck (Haskell), ce concept est aujourd'hui adapté en Python à l'aide de Hypothesis.
           Avec Hypothesis, au lieu de vous concentrer sur l'écriture de tests individuels, vous décrivez des propriétés garanties par votre code et Hypothesis générera à votre place les tests correspondants à ces spécifications. Par conséquent, l'utilisation de cette bibliothèque permet dans une certaine mesure d'automatiser l'écriture de tests répétitifs et élimine de nombreuses erreurs potentielles. Hypothesis générera plus de tests que ceux que vous auriez générés manuellement, ce qui doit permettre de démasquer plus d'erreurs.
           Cette présentation a pour objectif de vous introduire au concept des tests basés sur les propriétés ainsi qu'à l'utilisation de la bibliothèque Hypothesis et de ses plugins pour Numpy ou Django.
-          <br /><a href="https://www.pycon.fr/2016/videos/hypothesis-testez-moins-mais-tester-mieux-en-vous-concentrant-sur-les-proprietes.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S1FlZwYJl/thumbnail.jpg"></div><div class="video-label">Watch "Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/hypothesis-testez-moins-mais-tester-mieux-en-vous-concentrant-sur-les-proprietes.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S1FlZwYJl/thumbnail.jpg"></div><div class="video-label">Regarder "Hypothesis: testez moins mais tester mieux en vous concentrant sur les propriétés"</div></a></div>
 
           <div class="title" id="Application en Python de modèles physiologiques des muscles humains">Application en Python de modèles physiologiques des muscles humains</div>
           <div class="description">Notre équipe du laboratoire "BioMecanique et BioIngenierie" de l’Université de Technologie de Compiègne travaille sur l’analyse et la compréhension de l’activité musculaire. Actuellement, nous développons des modèles multi-échelles et multi-physiques des muscles afin de simuler les électromyogrammes. Notre travail s’applique à deux types de muscle : l’utérus et les muscles squelettiques. Depuis cinq ans, tous les logiciels liés à la modélisation sont codés en Python : interfaces graphiques pour gérer les simulations, résolution des équations des modèles et également la visualisation des résultats. Nous proposons de présenter notre approche et notre utilisation de Python comme un outil multiple pour résoudre les nombreuses problématiques rencontrées avec la complexité des modèles physiologiques d’organe humain. Pour illustrer cela, nous décrirons un logiciel qui a été entièrement développé dans notre laboratoire dont une partie a été mis en open source. Python a déjà prouvé son utilité pour les scientifiques, il permet une implémentation rapide de nos modèles et également un développement simple d’interfaces utilisateurs permettant l’utilisation des modèles à un public plus large ; non programmeur où non spécialiste en modélisation.
@@ -600,7 +602,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           * etc.
           L'an dernier, nous avons terminé le cours par un tournoi dans lequel les diverses IAs des étudiants se sont affrontées, l'objectif étant de ramasser plus de bouts de fromage que l'adversaire.
           L'objectif de cette présentation est de vous présenter le logiciel PyRat, pour donner des idées à des enseignants désireux d'enseigner Python et la théorie des graphes de manière ludique !
-          <br /><a href="https://www.pycon.fr/2016/videos/pyrat-un-jeu-pour-lapprentissage-de-linformatique-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S1hPDkaJl/thumbnail.jpg"></div><div class="video-label">Watch "PyRat - Un jeu pour l'apprentissage de l'informatique en Python"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/pyrat-un-jeu-pour-lapprentissage-de-linformatique-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S1hPDkaJl/thumbnail.jpg"></div><div class="video-label">Regarder "PyRat - Un jeu pour l'apprentissage de l'informatique en Python"</div></a></div>
 
           <div class="title" id="Modélisation, inférence et apprentissage de Réseaux Bayésien avec pyAgrum">Modélisation, inférence et apprentissage de Réseaux Bayésien avec pyAgrum</div>
           <div class="description">pyAgrum est un module de gestion et de calcul de modèles graphiques, en
@@ -618,7 +620,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           décision; ce qui offre à pyAgrum des performances élevées pour tous ses
           algorithmes d’inférence et d'apprentissage.
           http://pyagrum.lip6.fr
-          <br /><a href="https://www.pycon.fr/2016/videos/modelisation-inference-et-apprentissage-de-reseaux-bayesien-avec-pyagrum.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryHA_yrJe/thumbnail.jpg"></div><div class="video-label">Watch "Modélisation, inférence et apprentissage de Réseaux Bayésien avec pyAgrum"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/modelisation-inference-et-apprentissage-de-reseaux-bayesien-avec-pyagrum.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryHA_yrJe/thumbnail.jpg"></div><div class="video-label">Regarder "Modélisation, inférence et apprentissage de Réseaux Bayésien avec pyAgrum"</div></a></div>
 
           <div class="title" id="Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.">Commande prédictive avec Python. Application au pilotage optimal du chauffage d’un bâtiment.</div>
           <div class="description">Contexte : l’automatique est la branche des sciences de l’ingénieur qui s’intéresse au pilotage automatisé des systèmes, par exemple la régulation de vitesse d’une voiture ou de la température d’une pièce. En automatique, les développements d’algorithmes se font très souvent dans l’environnement commercial Matlab/Simulink, tant en enseignement qu’en recherche. Cependant, beaucoup des briques de base pour travailler sur des algorithmes d’automatique existent en Python. Cet exposé est une introduction à une méthode très puissante et très usitée, la commande prédictive, en Python. Également connue sous acronyme anglais MPC (Model Predictive Control), cette méthode permet de commander des systèmes complexes à l’aide de méthodes d’optimisation. Nous utiliserons l’exemple du pilotage optimal du chauffage d’un bâtiment de façon à minimiser la consommation d’énergie. Nous décrirons les principales étapes de la mise en œuvre de la commande en Python (un notebook Jupyter détaillé sera mis en ligne). Nous présenterons les principales bibliothèques utilisées (e.g. numpy), et plus particulièrement les routines d’optimisation de cxvopt (http://cvxopt.org/). Perspectives : un des intérêts d’utiliser Python et des bibliothèques libres est de permettre d’embarquer facilement l’algorithme créé sur une plateforme du type Raspberry Pi. Ainsi, l’exemple présenté du pilotage d’un chauffage pourrait être intégré dans des plateformes de domotique ouvertes.</div>
@@ -628,7 +630,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           L'application peut en se basant sur des techniques d'apprentissage automatique et de fouille de texte et de manière automatique détecter les projets d'aménagent depuis des bases de données d’appel d'offre.
           Ma présentation sera un retour d'expérience sur comment on utilise python à Jurismarchés pour faire du texte mining (fouille de texte), comme exemples nous avons choisis CityZenMap.
           Durant la présentation nous allons commencer par introduire des notions de datamining (fouille de données) et de fouille de textes, puis des exemples d'implémentation en python de modèles de fouilles de texte (en utilisant la librairie Scikit-learn), nous présenterons aussi l'implémentation du modèle utilisé dans CityZenMap pour analyser les annonces afin de détecter les projets d’aménagement.
-          <br /><a href="https://www.pycon.fr/2016/videos/python-pour-le-text-mining-fouille-de-texte.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SyDd3yBJl/thumbnail.jpg"></div><div class="video-label">Watch "Python pour le text mining (fouille de texte)"</div></a></div>
+          <!--<br /><a href="https://www.pycon.fr/2016/videos/python-pour-le-text-mining-fouille-de-texte.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SyDd3yBJl/thumbnail.jpg"></div><div class="video-label">Regarder "Python pour le text mining (fouille de texte)"</div></a>-->
+          </div>
 
           <div class="title" id="À la découverte du bytecode CPython !">À la découverte du bytecode CPython !</div>
           <div class="description">Le bytecode est au cœur de l'interpréteur CPython. Toutefois du point du vu de l'utilisateur il se limite à l'apparition (horripilante ?) de fichiers ".pyc" une fois un code exécuté.
@@ -639,7 +642,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           - comment le désassembler grâce au module `dis`
           - comment tout cela fonctionne-t-il au sein du système de piles et de frames de la machine virtuelle CPython
           - et bien sûr à quoi tout cela peut-il bien servir dans la vrai vie ;-)
-          <br /><a href="https://www.pycon.fr/2016/videos/a-la-decouverte-du-bytecode-cpython.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryeCfHByl/thumbnail.jpg"></div><div class="video-label">Watch "À la découverte du bytecode CPython !"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/a-la-decouverte-du-bytecode-cpython.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryeCfHByl/thumbnail.jpg"></div><div class="video-label">Regarder "À la découverte du bytecode CPython !"</div></a></div>
 
           <div class="title" id="Interopérabilité Python/C++ pour la motion capture et l'animation faciale">Interopérabilité Python/C++ pour la motion capture et l'animation faciale</div>
           <div class="description">Notre compagnie, "Dynamixyz", développe des logiciels pour les studios de
@@ -674,7 +677,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Demo reel de Dynamixyz: https://youtu.be/1WSneAhR5oA
 
           Note de l'équipe d'organisation : captation vidéo non autorisée par l'intervenant.e.
-          <br /><a href="https://www.pycon.fr/2016/videos/interoperabilite-python-c-pour-la-motion-capture-et-lanimation-faciale.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SySr-xr1e/thumbnail.jpg"></div><div class="video-label">Watch "Interopérabilité Python/C++ pour la motion capture et l'animation faciale"</div></a>
+          <!--<br /><a href="https://www.pycon.fr/2016/videos/interoperabilite-python-c-pour-la-motion-capture-et-lanimation-faciale.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SySr-xr1e/thumbnail.jpg"></div><div class="video-label">Regarder "Interopérabilité Python/C++ pour la motion capture et l'animation faciale"</div></a>-->
           </div>
 
           <div class="title" id="Recette pour faire venir PyConFr dans ta ville">Recette pour faire venir PyConFr dans ta ville</div>
@@ -682,7 +685,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Dans cet exposé, nous essaierons de présenter quelles sont les tâches à réaliser pour organiser une bonne PyConFr mais aussi les difficultés qu'on a pu rencontrer au cours des trois dernières années, les atouts et aussi les bonnes idées.
           Tout ça pour commencer à poser les pierres de PyConFr 2017 ?
           <br /><a href="https://monod.lelab.tailordev.fr/a2b867ad-b692-4a63-9927-64508a2b2cc0#zaqAjiBw4SSzS0nIlovD2ilBIpqSOAf425zSs2zUpUk=">Support de présentation</a>
-          <br /><a href="https://www.pycon.fr/2016/videos/recette-pour-faire-venir-pyconfr-dans-ta-ville.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/H1b5kJayl/thumbnail.jpg"></div><div class="video-label">Watch "Recette pour faire venir PyConFr dans ta ville"</div></a></div>
+          <!--<br /><a href="https://www.pycon.fr/2016/videos/recette-pour-faire-venir-pyconfr-dans-ta-ville.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/H1b5kJayl/thumbnail.jpg"></div><div class="video-label">Regarder "Recette pour faire venir PyConFr dans ta ville"</div></a>-->
+          </div>
 
           <div class="title" id="Python et secondes intercalaires">Python et secondes intercalaires</div>
           <div class="description">Les secondes intercalaires peuvent poser 2 types de problèmes en informatique : elles peuvent faire planter nos codes lors de l'interprétation du date mais elles peuvent aussi induire des erreurs de calcul ou d'enregistrement si la librairie de temps ne les gère pas.
@@ -699,7 +703,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
           <div class="title" id="Machine Learning Python libraries: accuracy and performance">Machine Learning Python libraries: accuracy and performance</div>
           <div class="description">la présentation contiendra une analyse de la précision et des performances des algorithme de machine learning implémentés par des librairies python tels que scikit-learn, pandas, numpy...
-          Je présenterai les différents algos d'un point de vue mathématique puis les implémentations python. On discutera les limites de ces implémentation après expositions des résultats sur les perf puis on proposera des pistes d'amélioration. l'aspect intégration python au plateforme big data tel que Spark sera également présent. </div>
+          Je présenterai les différents algos d'un point de vue mathématique puis les implémentations python. On discutera les limites de ces implémentation après expositions des résultats sur les perf puis on proposera des pistes d'amélioration. l'aspect intégration python au plateforme big data tel que Spark sera également présent.
+          <!--<br /><a href="https://www.pycon.fr/2016/videos/machine-learning-python-libraries-accuracy-and-performance.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJAWv1rkx/thumbnail.jpg"></div><div class="video-label">Regarder "Machine Learning Python libraries: accuracy and performance"</div></a>--></div>
 
           <div class="title" id="Écrire des tests en Python">Écrire des tests en Python</div><div class="description">Aujourd'hui les tests sont devenus incontournables, encore faut-il connaître les bonnes pratiques. Cet atelier vous offrira un tour d'horizon des différents types de test, niveaux de test, techniques et outils.</div>
 	  <br /><a href="https://gitpitch.com/Lothiraldan/python-test-101-pyconfr/master?grs=github&t=sky">Support de présentation</a></div>
@@ -718,13 +723,13 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           C'est un langage qui est rapide à prendre en main pour ceux qui ont déjà fait du scripting, pour les administrateurs de système et les équipes opérations sur des plateformes unix.
           Plusieurs idiomes issus de la programmation fonctionnelle sont intégrés directement dans le langage en ayant gardé une forme de compatibilité avec Python, ce qui permet de continuer à utiliser tout l'écosystème Python  pour une bonne facilité d'utilisation et intégration simple avec des projets existants.
           Coconut s'installe comme un paquet python normal, ce qui rend son déploiement très commode.
-          <br /><a href="https://www.pycon.fr/2016/videos/python-un-langage-a-la-noix-pour-la-programation-fonctionelle-essayez-coconut.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SynnT8K1e/thumbnail.jpg"></div><div class="video-label">Watch "Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/python-un-langage-a-la-noix-pour-la-programation-fonctionelle-essayez-coconut.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SynnT8K1e/thumbnail.jpg"></div><div class="video-label">Regarder "Python, un langage à la noix pour la programation fonctionelle ? Essayez coconut !"</div></a></div>
 
           <div class="title" id="asynctest: testez plus facilement votre code asyncio">asynctest: testez plus facilement votre code asyncio</div>
           <div class="description">asynctest est une bibliothèque qui étend les fonctionnalités du module standard de python unittest pour supporter asyncio. Cette conférence a pour objectif de présenter asynctest et de discuter de pratiques autour de l'écriture de tests.
           On discutera de l'art de tester en partant de zéro : comment écrire et exécuter des cas de tests, les organiser (fichiers, classes et méthodes) dans un dépôt de sources. On verra quelques fonctionnalités peu connues mais pratiques du module unittest, puis on verra comment asynctest simplifie l'écriture des tests pour asyncio en permettant le mocking automatique de coroutines, la simulation d'une boucle ou de son horloge.
           Les développeurs qui n'utilisent pas asyncio sont bienvenus, car de nombreux conseils peuvent s'appliquer au module unittest.
-          <br /><a href="https://www.pycon.fr/2016/videos/asynctest-testez-plus-facilement-votre-code-asyncio.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SycpYA2kl/thumbnail.jpg"></div><div class="video-label">Watch "asynctest: testez plus facilement votre code asyncio"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/asynctest-testez-plus-facilement-votre-code-asyncio.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SycpYA2kl/thumbnail.jpg"></div><div class="video-label">Regarder "asynctest: testez plus facilement votre code asyncio"</div></a></div>
 
           <div class="title" id="Créer une API publique avec Django Rest Framework">Créer une API publique avec Django Rest Framework</div>
           <div class="description">Lors de la contruction de la plateforme de monitoring Bleemeo, nous avons fait le choix d'une API REST utilisée à la fois par notre interface web et nos clients et un frontal full JavaScript. Notre backend a été développé en Django avec Django REST Framework  et le frontal en ReactJS.
@@ -735,24 +740,27 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Gensim is an open-source python NLP framework which provides an API to do robust, industry-grade Topic Modelling which is memory independent and super fast, while being very simple to use.
           The best part of gensim and python for Topic Modelling is it’s ease of usage and effectiveness. I would propose a small talk to explain how to effectively do topic modelling in python using Gensim framework- especially - after identifying topics from a large dataset, and then leveraging to perform un-supervised clustering, colouring topic-words in a document, and better understanding textual data for subsequent usage. All of this will be supported with examples from research and industry.
            [ My relationship with Gensim is through the Google Summer of Code 2016 program, where I am implementing Dynamic Topic Models for them ]
-           <br /><a href="https://www.pycon.fr/2016/videos/topic-modelling-with-python-and-gensim.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/r19ZYySke/thumbnail.jpg"></div><div class="video-label">Watch the video</div></a>
+           <br /><a href="https://www.pycon.fr/2016/videos/topic-modelling-with-python-and-gensim.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/r19ZYySke/thumbnail.jpg"></div><div class="video-label">Regarder "Topic Modelling with Python and Gensim"</div></a>
            </div>
 
           <div class="title" id="Qt et Asyncio avec Quamash">Qt et Asyncio avec Quamash</div>
           <div class="description">Asyncio est un modèle asynchrone générique basé sur des event-loop. Il permet de s’interfacer avec n’importe quelle autre librairie proposant un mécanisme d’event-loop.
           Dans cette présentation, on découvrira le potentiel de asyncio via la librairie Quamash (https://github.com/harvimt/quamash).
           Quamash est une petite librairie développée par Mark Harviston et Arve Knudsen. Elle permet d'utiliser les mots clés "async" et "await" dans des applications Qt, mettant alors fin au Callback Hell des signaux/slots ! L’intégration de la boucle d’évènement Qt dans asyncio permet aussi d’utiliser toutes les autres librairies Asyncio dans Qt, telle que aiohttp.
-          On découvrira ensemble les possibilités de cette librairie. On commencera par une utilisation basique, puis  on analysera quelques décorateurs utiles pour se simplifier la vie dans l'usage de Quamash. On mélangera ensuite Qt, asyncio, et aiohttp. Enfin, on regardera comment développer des tests fonctionnels basés sur QTest et Asyncio. Le tout agrémenté de questions/réponses...</div>
+          On découvrira ensemble les possibilités de cette librairie. On commencera par une utilisation basique, puis  on analysera quelques décorateurs utiles pour se simplifier la vie dans l'usage de Quamash. On mélangera ensuite Qt, asyncio, et aiohttp. Enfin, on regardera comment développer des tests fonctionnels basés sur QTest et Asyncio. Le tout agrémenté de questions/réponses...
+          <br /><a href="https://www.pycon.fr/2016/videos/qt-et-asyncio-avec-quamash.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJLoIy61e/thumbnail.jpg"></div><div class="video-label">Regarder "Qt et Asyncio avec Quamash"</div></a></div>
 
           <div class="title" id="Python, c'est rapide, ou c'est lent ?">Python, c'est rapide, ou c'est lent ?</div>
           <div class="description">Dans l'inconscient collectif des développeurs, en particulier des Pythonistes, Python est considéré comme étant très lent, micro-benchmarks à l'appui.
           Le but de cette conférence est de montrer que la réponse n'est pas aussi binaire qu'aimerait croire les développeurs. Outre l'architecture des solutions avant le langage, il y a également d'autres paramètres économiques qui rentrent en jeu, que ce soit par exemple le temps/coût de développement ou de maintenance.
           De plus, cette conférence sera également l'opportunité de lister ce qui à disposition dans la boîte à outils de Python pour faire face aux problèmes de performances.
-          <br /><a href="https://www.pycon.fr/2016/videos/python-cest-rapide-ou-cest-lent.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryZyPyakx/thumbnail.jpg"></div><div class="video-label">Watch "Python, c'est rapide, ou c'est lent ?"</div></a></div>
+          <!--<br /><a href="https://www.pycon.fr/2016/videos/python-cest-rapide-ou-cest-lent.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryZyPyakx/thumbnail.jpg"></div><div class="video-label">Regarder "Python, c'est rapide, ou c'est lent ?"</div></a>-->
+          </div>
 
           <div class="title" id="Python 3.6: utilisation des f-strings (PEP 498)">Python 3.6: utilisation des f-strings (PEP 498)</div>
           <div class="description">Il est prévu que la version stable de Python 3.6 inclue les f-strings définies dans PEP 498 (elles sont présentes dans les versions non-définitives de Python 3.6 depuis alpha 1). Les f-strings sont la quatrième forme de "mise en forme composite" (string interpolation) après %-format, str.format(), et string.Template.
-          Cette nouvelle façon de construire des chaînes améliore souvent la lisibilité du code. Je propose de passer en revue ce que sont les f-strings, leurs particularités et certains détails de leur implémentation dans CPython. </div>
+          Cette nouvelle façon de construire des chaînes améliore souvent la lisibilité du code. Je propose de passer en revue ce que sont les f-strings, leurs particularités et certains détails de leur implémentation dans CPython.
+          <br /><a href="https://www.pycon.fr/2016/videos/python-3-6-utilisation-des-f-strings-pep-498.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/H1s_uNrkl/thumbnail.jpg"></div><div class="video-label">Regarder "Python 3.6: utilisation des f-strings (PEP 498)"</div></a></div>
 
           <div class="title" id="L'Enfer du packaging Python">L'Enfer du packaging Python</div>
           <div class="description">Scaleway est un fournisseur de cloud computing qui expose plusieurs APIs pour permette aux clients de gérer leurs infrastructures.
@@ -765,7 +773,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
               * pyshop : permet d'avoir un repository local. Ne respecte pas la PEP 503, ne permet pas de gérer les permissions, backend sqlite bancal
               * devpi : fonctionne très bien, mais usine à gaz (documentation austère et complexe)
               * virtualenv : --relocatable qui ne fonctionne pas, rendant plus complexe les déploiements
-           <br /><a href="https://www.pycon.fr/2016/videos/lenfer-du-packaging-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B14wSSryl/thumbnail.jpg"></div><div class="video-label">Watch "L'Enfer du packaging Python"</div></a></div>
+           <br /><a href="https://www.pycon.fr/2016/videos/lenfer-du-packaging-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B14wSSryl/thumbnail.jpg"></div><div class="video-label">Regarder "L'Enfer du packaging Python"</div></a></div>
 
 
             <div class="title" id="How Python influences JavaScript">How Python influences JavaScript</div><div class="description">Modern JavaScript offers several key features that have been heavily influenced
@@ -778,19 +786,20 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
             Cette présentation vise à présenter ce nouveau format, et par extension, à introduire l'installation et l'utilisation basique de Devpi.
             Cet outil permet de disposer en interne d'un serveur similaire à Pypi. Il permet ainsi de gérer ses propres paquets Python correctement et d'y avoir accès aisément via pip.
             L'association du format wheel et de Devpi permet ainsi de standardiser la gestion de paquets Python, quels qu'ils soient.
-            <br /><a href="https://www.pycon.fr/2016/videos/packaging-python-wheel-and-devpy.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S1G7rHHJl/thumbnail.jpg"></div><div class="video-label">Watch "Packaging Python : Wheel and Devpi"</div></a></div>
+            <br /><a href="https://www.pycon.fr/2016/videos/packaging-python-wheel-and-devpy.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S1G7rHHJl/thumbnail.jpg"></div><div class="video-label">Regarder "Packaging Python : Wheel and Devpi"</div></a></div>
 
             <div class="title" id="Pyduino : portage du langage Arduino en Python">Pyduino : portage du langage Arduino en Python</div>
             <div class="description">Présentation de la librairie Pyduino que j'ai écrite en Python qui permet le portage du langage Arduino sur mini-PC.
             En clair, avec Pyduino, coder un mini-pc aussi facilement qu'une carte Arduino et dans un même code, combiner entrées/sortie, réseau, fichiers, capture audio, etc.
-            <br /><a href="https://www.pycon.fr/2016/videos/pyduino-portage-du-langage-arduino-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/r1UGf-Hyl/thumbnail.jpg"></div><div class="video-label">Watch "Pyduino : portage du langage Arduino en Python"</div></a></div>
+            <br /><a href="https://www.pycon.fr/2016/videos/pyduino-portage-du-langage-arduino-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/r1UGf-Hyl/thumbnail.jpg"></div><div class="video-label">Regarder "Pyduino : portage du langage Arduino en Python"</div></a></div>
 
             <div class="title" id="Informatique musicale : créer un séquenceur pas-à-pas avec Python">Informatique musicale : créer un séquenceur pas-à-pas avec Python</div>
             <div class="description">Aujourd’hui, que ce soit via « Maschine » de Native Instruments, « Push » de Ableton, ou encore via des machines à l’esprit plus vintage comme le « Dark Time » de Doepfer ou des émulations de vieilles boites à rythmes, les musiciens retrouvent le goût du séquencement pas à pas ou « Step Sequencing ».
             Le bidouilleur que je suis avait envie de détourner son matériel pour reproduire ce type d’outil de création…
             Après une introduction au MIDI et aux principes d’un séquenceur, nous verrons comment nous pouvons, avec Python et la librairie mido, « hacker » un certain synthétiseur hardware pour en faire un séquenceur pas à pas, à l’aide d’une boucle d’événements. Nous essaierons même de l’interfacer avec Ableton Live pour contrôler non plus les sons du synthétiseur, mais des samples !
             Disclaimer : bien que pratiquant la M.A.O depuis longtemps, je ne suis pas expert en séquenceurs mais plutôt bidouilleur et pythoniste… Ainsi je laisserai une bonne place aux échanges avec vous pendant l’intervention !
-            <br /><a href="https://www.pycon.fr/2016/videos/informatique-musicale-creer-un-sequenceur-pas-a-pas-avec-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/HJ6gQlS1g/thumbnail.jpg"></div><div class="video-label">Watch "Informatique musicale : créer un séquenceur pas-à-pas avec Python"</div></a></div>
+            <br /><a href="https://speakerdeck.com/ygravrand/informatique-musicale-creer-un-sequenceur-pas-a-pas-avec-python">Support de présentation</a>
+            <br /><a href="https://www.pycon.fr/2016/videos/informatique-musicale-creer-un-sequenceur-pas-a-pas-avec-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/HJ6gQlS1g/thumbnail.jpg"></div><div class="video-label">Regarder "Informatique musicale : créer un séquenceur pas-à-pas avec Python"</div></a></div>
 
             <div class="title" id="Les dessous du portage d'Ansible à Python 3">Les dessous du portage d'Ansible à Python 3</div>
             <div class="description">Ansible est un outil de déploiement d'un genre un peu spécial, qui fonctionne sans avoir besoin d'un agent sur la machine distante. Pour cela, il copie
@@ -802,7 +811,8 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
             <div class="title" id="Manipulating and analysing multi-dimensional data with Pandas">Manipulating and analysing multi-dimensional data with Pandas</div>
             <div class="description">This talk will be based on open source data manipulation and analysis python library - Pandas. It will mainly focus on exploring the most commonly used features of the library like - integrated indexing using DataFrame objects, slicing and subsetting of large data sets, merging, joining and size mutability of data structures, hierarchical axis indexing to work with high-dimensional data in a lower-dimensional data, flexible reshaping and pivoting of data sets etc.
             Basically, this talk will give you an overview of the most useful features of this library.
-            <br /><a href="https://www.pycon.fr/2016/videos/manipulating-and-analysing-multi-dimensional-data-with-pandas.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ByPUdJHyl/thumbnail.jpg"></div><div class="video-label">Watch "Manipulating and analysing multi-dimensional data with Pandas"</div></a></div>
+            <!-- <br /><a href="https://www.pycon.fr/2016/videos/manipulating-and-analysing-multi-dimensional-data-with-pandas.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ByPUdJHyl/thumbnail.jpg"></div><div class="video-label">Regarder "Manipulating and analysing multi-dimensional data with Pandas"</div></a>-->
+            </div>
 
             <div class="title" id="Une chaine de production de 3D temps-réel en Python">Une chaine de production de 3D temps-réel en Python</div>
             <div class="description">A travers +15 ans d'expérience dans la réalisation de jeux vidéos pour consoles et PC et de simulateurs 3D nous avons progressivement développé une compétence et un savoir faire que nous souhaitons aujourd'hui partager. Si la 3D temps-réel nécessite un socle C++ performant, nous considérons que le Python est parfaitement adapté au développement itératif d'applications métier utilisant la 3D.
@@ -810,23 +820,23 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
             1/ Les avantages du Python dans le développement rapide d'applications métiers utilisant la 3D temps réel (simulateur, application VR et jeu vidéo)
             2/ les défis rencontrés et solutions développées dans la création d'un framework complet de 3D temps réel (OpenGL, physique, VR, audio, vidéo, Windows, OS X et Linux) accessible depuis Python 3 sous la forme d'un simple module. Le framework ainsi développé étant la pierre angulaire des applications métiers mentionnées au dessus.
             Items techniques pouvant être abordés : Python, PyQt, Bullet Physics, binding C++/Python, workflow de production 3D, visualisation scientifique.
-            <br /><a href="https://www.pycon.fr/2016/videos/une-chaine-de-production-de-3d-temps-reel-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ry7hblHkg/thumbnail.jpg"></div><div class="video-label">Watch "Une chaine de production de 3D temps-réel en Python"</div></a></div>
+            <br /><a href="https://www.pycon.fr/2016/videos/une-chaine-de-production-de-3d-temps-reel-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ry7hblHkg/thumbnail.jpg"></div><div class="video-label">Regarder "Une chaine de production de 3D temps-réel en Python"</div></a></div>
 
             <div class="title" id="Au secours, on n'a pas de projet Python dans ma boîte">Au secours, on n'a pas de projet Python dans ma boîte</div>
             <div class="description">Pourquoi apprendrais-je le Python alors qu'on ne developpe pas avec dans ma boîte ?
             Un programme n'est pas forcément destiné à être livré à un client. L'essence de la programmation est de permettre à ceux qui la maîtrise d'automatiser des tâches pénibles.
             Cette présentation donnera quelques exemples d'utilisation de Python pour simplifier notre vie de bureau. Nous verrons également ce que l'automatisation peut révéler sur nos organisations.
-            <br /><a href="https://www.pycon.fr/2016/videos/au-secours-on-na-pas-de-projet-python-dans-ma-boite.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/Hk2ryyaJx/thumbnail.jpg"></div><div class="video-label">Watch "Au secours, on n'a pas de projet Python dans ma boîte"</div></a></div>
+            <br /><a href="https://www.pycon.fr/2016/videos/au-secours-on-na-pas-de-projet-python-dans-ma-boite.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/Hk2ryyaJx/thumbnail.jpg"></div><div class="video-label">Regarder "Au secours, on n'a pas de projet Python dans ma boîte"</div></a></div>
 
           <div class="title" id="Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?">Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?</div>
-          <div class="description">Avec quelques exemples du monde réel, je vais vous expliquer l'intérêt du modèle asynchrone et quand il est intéressant de l'utiliser. De plus, je vais vous montrer pourquoi l'inclusion de async / await + AsyncIO dans le cœur de Python est un choix judicieux, d'un point de vue technique et politique. Enfin, je vais vous présenter quelques bibliothèques dans la boîte à outils d'AsyncIO.</div>
+          <div class="description">Avec quelques exemples du monde réel, je vais vous expliquer l'intérêt du modèle asynchrone et quand il est intéressant de l'utiliser. De plus, je vais vous montrer pourquoi l'inclusion de async / await + AsyncIO dans le cœur de Python est un choix judicieux, d'un point de vue technique et politique. Enfin, je vais vous présenter quelques bibliothèques dans la boîte à outils d'AsyncIO.<br /><a href="https://www.pycon.fr/2016/videos/pourquoi-mais-pourquoi-async-et-await-ont-ete-inclu-dans-python-3-5.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SkTQ8yTkg/thumbnail.jpg"></div><div class="video-label">Regarder "Pourquoi, mais pourquoi, async et await ont été inclu dans Python 3.5 ?"</div></a></div>
 
 
           <div class="title" id="Des nouvelles du Front !">Des nouvelles du Front !</div>
           <div class="description">Pouvons-nous imaginer un monde sans Javascript dans notre navigateur ? Allons plus loin, pouvons-nous imaginer un monde avec la puissance et la facilité de Python dans notre navigateur ?
           Après s'être imposé sur la partie Backend avec des technologies comme Flask et Django, est-ce que Python peut désormais devenir le langage du Frontend ?
           Dans cette conférence, nous allons faire le point sur les solutions actuelles pour coder les applications et les sites web en Python (Brython, Rapydscript, Pyjs, PyPy.js, Web Assembly...).
-          <br /><a href="https://www.pycon.fr/2016/videos/des-nouvelles-du-front.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1wLdBBkg/thumbnail.jpg"></div><div class="video-label">Watch "Des nouvelles du Front !"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/des-nouvelles-du-front.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1wLdBBkg/thumbnail.jpg"></div><div class="video-label">Regarder "Des nouvelles du Front !"</div></a></div>
 
 
           <div class="title" id="Autentification et autorisation avec Django REST framework">Autentification et autorisation avec Django REST framework</div>
@@ -836,7 +846,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Nous aborderons les spécificités par rapport aux applications web "classiques", en particulier les échanges entre systèmes d'informations.
           Nous verrons également comment intégrer son propre système d'autentification et de permissions au sein de Django REST framework.
           Enfin, nous ferons un tour des solutions existantes.
-          <br /><a href="https://www.pycon.fr/2016/videos/authentification-et-autorisation-avec-django-rest-framework.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/HJY2P3wyx/thumbnail.jpg"></div><div class="video-label">Watch "Authentification et autorisation avec Django REST framework"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/authentification-et-autorisation-avec-django-rest-framework.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/HJY2P3wyx/thumbnail.jpg"></div><div class="video-label">Regarder "Authentification et autorisation avec Django REST framework"</div></a></div>
 
 
           <div class="title" id="Test Tout Terrain (Python edition)">Test Tout Terrain (Python edition)</div>
@@ -856,26 +866,27 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
                       for participant in participants:
                           assert participant.a_appris_un_truc_sur_les_tests
 
-          <br /><a href="https://www.pycon.fr/2016/videos/test-tout-terrain-python-edition.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJXf68Fkg/thumbnail.jpg"></div><div class="video-label">Watch "Test Tout Terrain (Python edition)"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/test-tout-terrain-python-edition.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJXf68Fkg/thumbnail.jpg"></div><div class="video-label">Regarder "Test Tout Terrain (Python edition)"</div></a></div>
 
 
           <div class="title" id="Infrastucture moderne pour le développement en équipes">Infrastucture moderne pour le développement en équipes</div>
           <div class="description">Présentation de l'environnement projets ("forge logicielle") mis en place à Net-ng pour le développement de nos projets Python. Cet environnement, entièrement revu en 2015, est exclusivement constitué de projets open-source et hébergé en local. Il est utilisé au quotidien par une vingtaine de développeurs.
           Il intègre les outils de gestion de la relation clients en méthodologie Agile, le référentiel des sources, une intégration continue basée sur Docker, un PAAS Docker dédié pour le déploiement continu, un référentiel privé de packages Python et d'hébergement de la documentation. Il assure aussi la collaboration dans et entre nos équipes au travers d'une messagerie instantanée en mode "ChatOps" et de dashboards interactifs.
-          <br /><a href="https://www.pycon.fr/2016/videos/infrastucture-moderne-pour-le-developpement-en-equipes.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1ho0C3Jl/thumbnail.jpg"></div><div class="video-label">Watch "Infrastucture moderne pour le développement en équipes"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/infrastucture-moderne-pour-le-developpement-en-equipes.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1ho0C3Jl/thumbnail.jpg"></div><div class="video-label">Regarder "Infrastucture moderne pour le développement en équipes"</div></a></div>
 
           <div class="title" id="La programmation asynchrone avec Python.">La programmation asynchrone avec Python.</div>
           <div class="description">Coroutine, boucle d'événement, entrés sorties non-blocantes ...
           Besoin de faire le tri ?
           Depuis plusieurs années de plus en plus d'outils facilitent la programmation asynchrone. Un monde qui peut paraitre étrange dans lequel des serveurs gèrent des millier de connections simultanément sans utiliser de threads.
           Cette présentation explique les différents concepts de la programmation asynchrone et l'évolution de celle-ci avec l'arrivée des nouveaux mots clé async et await dans python 3.5.
-          Nous verrons comment utiliser la librairie Asyncio, qui est à python ce que NodeJS est à JavaScript, puis nous découvrirons comment faire du web asynchrone grâce au framework Tornado et comment faire un pont entre Asyncio et Tornado.</div>
+          Nous verrons comment utiliser la librairie Asyncio, qui est à python ce que NodeJS est à JavaScript, puis nous découvrirons comment faire du web asynchrone grâce au framework Tornado et comment faire un pont entre Asyncio et Tornado.
+          <br /><a href="https://www.pycon.fr/2016/videos/la-programmation-asynchrone-avec-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rkIR8mFke/thumbnail.jpg"></div><div class="video-label">Regarder "La programmation asynchrone avec Python."</div></a></div>
 
           <div class="title" id="Enseignement d'informatique en classes préparatoires scientifiques & Python dans les Grandes Écoles">Enseignement d'informatique en classes préparatoires scientifiques / Python dans les Grandes Écoles</div>
           <div class="description">L'enseignement de l'informatique a été profondément modifié il y a 3 ans dans les classes préparatoires, et les nouveaux programmes prévoient un enseignement utilisant le langage python. Ce court exposé présentera ce programme, les modalités d'enseignement, les attendus de ces enseignements.
           Le partage d’expérience et les problématiques d’enseignement de Python dans les Grandes Écoles spécialisées. Comment convaincre d’intégrer Python dans les projets pédagogiques ? Utilisation des logiciels phares (type Blender ) dans l’enseignement 3D des filières des jeux vidéos et leur efficacité. Les astuces pour rendre Python attractif pour les étudiants. Des projets en Python en direction des entreprises et des étudiants (type Elicthus). La création d’une passerelle entre le monde de l’enseignement spécialisé et les futurs employeurs. Les problématiques et les difficultés d’enseignement de Python dans le cadre d’un enseignement par alternance. Un appel aux idées pour rendre Python plus étudiés dans les Grandes Écoles.
-          <br /><a href="https://www.pycon.fr/2016/videos/enseignement-dinformatique-en-classes-preparatoires-scientifiques.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryITkSYyg/thumbnail.jpg"></div><div class="video-label">Watch "Enseignement d'informatique en classes préparatoires scientifiques"</div></a>
-          <br /><a href="https://www.pycon.fr/2016/videos/python-dans-les-grandes-ecoles.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SyxFOBFye/thumbnail.jpg"></div><div class="video-label">Watch "Python dans les Grandes Écoles"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/enseignement-dinformatique-en-classes-preparatoires-scientifiques.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryITkSYyg/thumbnail.jpg"></div><div class="video-label">Regarder "Enseignement d'informatique en classes préparatoires scientifiques"</div></a>
+          <br /><a href="https://www.pycon.fr/2016/videos/python-dans-les-grandes-ecoles.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SyxFOBFye/thumbnail.jpg"></div><div class="video-label">Regarder "Python dans les Grandes Écoles"</div></a></div>
 
 
           <div class="title" id="Python et la sécurité : de l'interpréteur au déploiement">Python et la sécurité : de l'interpréteur au déploiement</div>
@@ -883,13 +894,14 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           rité du programme. Nous verrons dans cette conférence quel peut être le niveau de sécurité de nos programmes en Python en commençant pas analyser les vulnérabilités de l'interpréteur en lui même. Nous regarderons ensuite le code Python et
           nous analyserons les comportements dangereux du développeur tout en essayant de trouver les meilleures solutions pour s'affranchir au maximum des vulnérabilités. Nous regarderons enfin le cycle de vie de nos applications ; du choix de l'ou
           tillage jusqu'au déploiement de l'application pour filtrer et stopper les dernières vulnérabilités
-          <br /><a href="https://www.pycon.fr/2016/videos/python-et-la-securite-de-linterpreteur-au-deploiement.html">
+          <!-- <br /><a href="https://www.pycon.fr/2016/videos/python-et-la-securite-de-linterpreteur-au-deploiement.html">
           <div class="video-thumbnail">
-          <img src="https://www.pycon.fr/2016/videos/content/B11R2yTye/thumbnail.jpg"></div><div class="video-label">Watch "Python et la sécurité : de l'interpréteur au déploiement"</div></a></div>
+          <img src="https://www.pycon.fr/2016/videos/content/B11R2yTye/thumbnail.jpg"></div><div class="video-label">Regarder "Python et la sécurité : de l'interpréteur au déploiement"</div></a> -->
+           </div>
 
           <div class="title" id="Introduction au notebook Jupyter">Introduction au notebook Jupyter</div>
           <div class="description">Présentation du spectre fonctionnel couvert par IPython et le notebook Jupyter. Du shell Python évolué au visualiseur de données scientifiques, en passant par l'outil exploratoire intéractif, de collaboration et de partage.
-          <br /><a href="https://www.pycon.fr/2016/videos/introduction-au-notebook-jupyter.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ByWZ0JrJe/thumbnail.jpg"></div><div class="video-label">Watch "Introduction au notebook Jupyter"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/introduction-au-notebook-jupyter.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ByWZ0JrJe/thumbnail.jpg"></div><div class="video-label">Regarder "Introduction au notebook Jupyter"</div></a></div>
 
 
           <div class="title" id="Libération du calculateur des impôts">Libération du calculateur des impôts</div>
@@ -898,7 +910,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Des travaux en cours visent à le fusionner avec le projet [OpenFisca](http://www.openfisca.fr/en).
           OpenFisca est un moteur ouvert de micro-simulation du système socio-fiscal. Il a été créé en 2011 sous forme de logiciel libre en langage Python. Il permet entre autres de calculer un grand nombre de prestations sociales et d'impôts payés par les ménages, et de simuler l'impact de réformes sur leur budget.
           Il s'agit d'un outil à vocation pédagogique pour aider les citoyens à mieux comprendre le système socio-fiscal.
-          <br /><a href="https://www.pycon.fr/2016/videos/liberation-du-calculateur-des-impots.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SkyTZWSyg/thumbnail.jpg"></div><div class="video-label">Watch "Libération du calculateur des impôts"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/liberation-du-calculateur-des-impots.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SkyTZWSyg/thumbnail.jpg"></div><div class="video-label">Regarder "Libération du calculateur des impôts"</div></a></div>
 
 
           <div class="title" id="PyPy: Python faster than Python">PyPy: Python faster than Python</div>
@@ -908,14 +920,15 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
         * cpyext, PyPy's emulation layer for CPython's C API, has been overhauled in order to soon allow full compatibility with all C extensions.
 
-        * Python 3 support is steadily improving with a recent 3.3-compatible release and development being started on a 3.5 version.</div>
+        * Python 3 support is steadily improving with a recent 3.3-compatible release and development being started on a 3.5 version.
+        <br /><a href="https://www.pycon.fr/2016/videos/pypy-python-faster-than-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ByRLfrS1g/thumbnail.jpg"></div><div class="video-label">Regarder "PyPy: Python faster than Python"</div></a></div>
 
 
           <div class="title" id="Lire & Écrire la Doc">Lire &amp; Écrire la Doc</div>
           <div class="description">La documentation est un domaine très vaste, qui couvre autant les fichiers README.txt que les spécifications techniques, en passant par les schémas, les plans, les livres, les commentaires, et bien d'autres formats - qu'il soit sous notre contrôle ou mis en commun.
           Je souhaite aborder la question de la lecture de la documentation, de notre façon d'aborder les problèmes dans notre métier, et des sources d'informations à notre disposition. C'est un tour autant chez les lecteurs de documentation, que chez les auteurs.
           Ce sera l'occasion de parler de man, de StackOverflow, de la doc de Python, et de ce que nous pouvons, au quotidien, faire pour améliorer la situation - pour améliorer notre propre situation.
-          <br /><a href="https://www.pycon.fr/2016/videos/lire-ecrire-la-doc.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rydlSrB1g/thumbnail.jpg"></div><div class="video-label">Watch "Lire &amp; Écrire la Doc"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/lire-ecrire-la-doc.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rydlSrB1g/thumbnail.jpg"></div><div class="video-label">Regarder "Lire &amp; Écrire la Doc"</div></a></div>
 
 
           <div class="title" id="Ma première appli en 30 minutes (et un peu de courage)">Ma première appli en 30 minutes (et un peu de courage)</div>
@@ -925,7 +938,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
 
           <div class="title" id="Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?">Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?</div>
           <div class="description">Tout le monde sait qu'IPv6 c'est l'avenir du réseau, mais peu le déploient et l'utilisent si bien que les réseaux IPv6 ne sont toujours pas aujourd'hui une réalité. Or IPv6 est une opportunité pour changer notre façon de penser le réseau en revenant à des principes simples (et stupides) qui ont fait le succès d'Internet. Cette conférence a pour objectif de démontrer cette simplicité, notamment dans la gestion du réseau au sein du code d'une application.
-          <br /><a href="https://www.pycon.fr/2016/videos/faut-il-etre-masochiste-pour-utiliser-ipv6-dans-son-code-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1ZmpHHke/thumbnail.jpg"></div><div class="video-label">Watch "Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?"</div></a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/faut-il-etre-masochiste-pour-utiliser-ipv6-dans-son-code-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/B1ZmpHHke/thumbnail.jpg"></div><div class="video-label">Regarder "Faut-il être masochiste pour utiliser IPv6 (dans son code Python) ?"</div></a></div>
 
 
           <div class="title" id="Voyage au centre du monde CPython">Voyage au centre du monde CPython</div>
@@ -943,12 +956,14 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           Ce voyage interessant, permettra a toute personne de demarrer comme contributeur CPython
           et d'apporter enfin une reponse a l'expression x = 2 + 2
           Venez me rejoindre dans CPython.
-          Presente a EuroPython, PyCon IE, PyCon UK, PythonFOSDEM</div>
+          Presente a EuroPython, PyCon IE, PyCon UK, PythonFOSDEM
+          <br /><a href="https://www.pycon.fr/2016/videos/voyage-au-centre-du-monde-cpython.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/ryCHerrJg/thumbnail.jpg"></div><div class="video-label">Regarder "Voyage au centre du monde CPython"</div></a></div>
 
 
           <div class="title" id="Deep learning : votre propre cerveau artificiel avec Python">Deep learning : votre propre cerveau artificiel avec Python</div>
           <div class="description">Le deep learning (ou "apprentissage profond") est une méthode d'apprentissage automatique dont la popularité a explosé en quelques années. Reposant sur les réseaux de neurones artificiels, le deep learning est dorénavant utilisé une quantité invraisemblable de systèmes intelligents : AlphaGo, mais aussi la reconnaissance vocale, les voitures autonomes, le sous-titrage automatique, les outils de détection d'objets, ...
-          Dans cette présentation, on présentera brièvement le minimum requis de théorie derrière les réseaux de neurones pour comprendre comment tout fonctionne, mais s'intéressera surtout aux outils existants en Python pour travailler avec le deep learning. Au travers plusieurs exemples, on apprendra ensemble à construire ses propres outils intelligents en quelques lignes de code pour classer des images et générer du texte.</div>
+          Dans cette présentation, on présentera brièvement le minimum requis de théorie derrière les réseaux de neurones pour comprendre comment tout fonctionne, mais s'intéressera surtout aux outils existants en Python pour travailler avec le deep learning. Au travers plusieurs exemples, on apprendra ensemble à construire ses propres outils intelligents en quelques lignes de code pour classer des images et générer du texte.
+          <br /><a href="https://www.pycon.fr/2016/videos/deep-learning-votre-propre-cerveau-artificiel-avec-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/Hk0Li1rJg/thumbnail.jpg"></div><div class="video-label">Regarder "Deep learning : votre propre cerveau artificiel avec Python"</div></a></div>
 
 
           <div class="title" id="Traduction de la doc de Python et l'internationalisation">Traduction de la doc de Python et l'internationalisation</div>
@@ -960,12 +975,13 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
            Nous vous présenterons les outils de base et comment les appliquer à Python, de la modification de votre code aux outils des traducteurs.
 
            ...avec le retour d'expérience fait sur la traduction de la doc.
-           <br /><a href="https://www.pycon.fr/2016/videos/traduction-de-la-doc-de-python-et-linternationalisation.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/HkSkXlSJg/thumbnail.jpg"></div><div class="video-label">Watch "Traduction de la doc de Python et l'internationalisation"</div></a></div>
+           <br /><a href="https://www.pycon.fr/2016/videos/traduction-de-la-doc-de-python-et-linternationalisation.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/HkSkXlSJg/thumbnail.jpg"></div><div class="video-label">Regarder "Traduction de la doc de Python et l'internationalisation"</div></a></div>
 
 
           <div class="title" id="Scalable decentralised communication with Matrix.org and Twisted">Scalable decentralised communication with Matrix.org and Twisted</div>
           <div class="description">Matrix.org is an open source project that creates a new ecosystem for interoperable decentralised communication.  Matrix publishes open standard HTTP APIs for synchronising arbitrary real-time data (chat messages, VoIP calls, IoT data etc) with no central point of control, maintaining cryptographic integrity by storing conversation history in Merkle DAGs and using state-of-the-art end-to-end encryption via the Olm cryptographic ratchet.  The aim of Matrix is to defragment online communication and make interoperable messaging/VoIP/IoT as simple and ubiquitous as sending an email. As well as the standard itself, Matrix.org releases Apache-licensed reference implementations of Matrix servers, bridges, bots, clients etc.
-          Our primary reference server implementation of Matrix is Synapse (https://github.com/matrix-org/synapse), which is built entirely in Python/Twisted.  Since our initial release in September 2014, Synapse has grown to ~50KLOC and scales to ~300K users on the matrix.org server deployment and has hundreds of active deployments on the public internet.  In this talk we’ll introduce Matrix and dig into both the good and bad sides of working with Twisted, the scalability challenges we’ve faced, how we fixed them and what we learned along the way!</div>
+          Our primary reference server implementation of Matrix is Synapse (https://github.com/matrix-org/synapse), which is built entirely in Python/Twisted.  Since our initial release in September 2014, Synapse has grown to ~50KLOC and scales to ~300K users on the matrix.org server deployment and has hundreds of active deployments on the public internet.  In this talk we’ll introduce Matrix and dig into both the good and bad sides of working with Twisted, the scalability challenges we’ve faced, how we fixed them and what we learned along the way!
+          <br /><a href="https://www.pycon.fr/2016/videos/scalable-decentralised-communication-with-matrix-org-and-twisted.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/H11Aa0nyx/thumbnail.jpg"></div><div class="video-label">Regarder "Scalable decentralised communication with Matrix.org and Twisted"</div></a></div>
 
 
           <div class="title" id="Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution">Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution</div>
@@ -977,18 +993,20 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
             Mise à jour intelligentes de graphes d'exécution :
 
             Une problématique fréquemment rencontrée en Data Science est: comment faire pour que l'état des données et du code les générant soit synchrone? En effet sur un projet avec plusieurs sources de données, plusieurs étapes de transformation, il devient vite compliqué de savoir quels script faire tourner pour recalculer l'ensemble des données du projet de manière intelligente. Avec des collègues de Quantmetry, nous avons développé une petit solution permettant de résoudre ce problème à partir de composants existatns: Dasq et Joblib. Le résultat est un outil permettant de décrire des graphes d'exécution de traitement de données et de regénérer intelligement a un temps donné des données d'un projet en détectant les sources de données ayant changé et en regénérant les données dépendantes.
-    </div>
+            <!-- <br /><a href="https://www.pycon.fr/2016/videos/gestion-avancee-de-la-memoire-dans-pandas-mise-a-jour-intelligentes-de-graphes-dexecution.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/r141iJS1l/thumbnail.jpg"></div><div class="video-label">Regarder "Gestion Avancée de la Mémoire dans Pandas / Mise à jour intelligentes de graphes d'exécution"</div></a>
+            --></div>
 
 
           <div class="title" id="Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité">Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité</div>
-          <div class="description">ØMQ ou zeromq est une une boite à outils réseau extrêmement légère, flexible et performante permettant à des acteurs distribués d'échanger un grand nombre de messages en utilisant des mécanismes de transport variés (in-process, inter-process, TCP, multicast). A la base conçue et optimisée pour le backend d'un système de trading en ligne, cette bibliothèque est aujourd'hui une solution générique et multi-langage et elle est utilisée par un large spectre d'applications: ipyparallel utilise zeromq pour la communication entre ses composants, les notebooks Jupyter l'utilisent pour s'entretenir avec les différents kernels, et de nombreux (micro)services web l'utilisent pour l'échange de messages et du RPC au sein de leur backend, comme entre autres chez Spotify (python, Zeromq, protobuf et gevent). A l'institut ChemTech (Haute Ecole d'Ingénierie et d'Architecture de Fribourg), on utilise cette technologie pour la communication en temps réel entre microservices qui monitorent, analysent, optimisent et contrôlent une halle de production chimique. Cette présentation propose de vous introduire aux patterns d'utilisation pythoniques de zeromq qui ont beaucoup évolués depuis Python 3.4 et l'arrivée de asyncio, aux possibilités de cette bibliothèque en terme d'architectures de communication et de sécurité, et de faire un état des lieux des forces, faiblesses et alternatives.</div>
+          <div class="description">ØMQ ou zeromq est une une boite à outils réseau extrêmement légère, flexible et performante permettant à des acteurs distribués d'échanger un grand nombre de messages en utilisant des mécanismes de transport variés (in-process, inter-process, TCP, multicast). A la base conçue et optimisée pour le backend d'un système de trading en ligne, cette bibliothèque est aujourd'hui une solution générique et multi-langage et elle est utilisée par un large spectre d'applications: ipyparallel utilise zeromq pour la communication entre ses composants, les notebooks Jupyter l'utilisent pour s'entretenir avec les différents kernels, et de nombreux (micro)services web l'utilisent pour l'échange de messages et du RPC au sein de leur backend, comme entre autres chez Spotify (python, Zeromq, protobuf et gevent). A l'institut ChemTech (Haute Ecole d'Ingénierie et d'Architecture de Fribourg), on utilise cette technologie pour la communication en temps réel entre microservices qui monitorent, analysent, optimisent et contrôlent une halle de production chimique. Cette présentation propose de vous introduire aux patterns d'utilisation pythoniques de zeromq qui ont beaucoup évolués depuis Python 3.4 et l'arrivée de asyncio, aux possibilités de cette bibliothèque en terme d'architectures de communication et de sécurité, et de faire un état des lieux des forces, faiblesses et alternatives.
+          <br /><a href="https://www.pycon.fr/2016/videos/communiquer-avec-omq-patterns-dutilisation-api-asynchrone-et-securite.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/H1L8i4YJg/thumbnail.jpg"></div><div class="video-label">Regarder "Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité"</div></a></div>
 
 
           <div class="title" id="Monkey-Patcher Python en production">Monkey-Patcher Python en production</div><div class="description">Monkey-Patching est difficile, le faire en production l’est encore plus ! Il faut trouver comment entrer dans Python et faire attention aux pièges tendues en ces eaux souvent peu explorées. Nous vous présenterons les solutions que nous avons trouvées et ce qu’il faut éviter de faire quand on monkey-patch du code en production.
-          <br /><a href="https://www.pycon.fr/2016/videos/monkey-patcher-python-en-production.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rkiJu3w1x/thumbnail.jpg"></div><div class="video-label">Watch "Monkey-Patcher Python en production"</div></a></div>
-	  <br /><a href="https://gitpitch.com/Lothiraldan/python-production-monkey-patching/master?grs=github&t=sky">Support de présentation</a></div>
+          <br /><a href="https://www.pycon.fr/2016/videos/monkey-patcher-python-en-production.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rkiJu3w1x/thumbnail.jpg"></div><div class="video-label">Regarder "Monkey-Patcher Python en production"</div></a>
+	  <br /><a href="https://gitpitch.com/Lothiraldan/python-production-monkey-patching/master?grs=github&t=sky">Support de présentation</a>
 
-
+      </div>
 
       </div>
     </div>
