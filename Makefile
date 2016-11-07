@@ -9,7 +9,8 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 GITHUB_PAGES_BRANCH=gh-pages
 
 AFPY_OUTPUTDIR=$(BASEDIR)/output/
-AFPY_PUBLISH_URL=pyconfr@py.afpy.org:/home/pyconfr/pyconfr-2016/
+AFPY_PUBLISH_URL=pyconfr@pycon.fr:/usr/home/pyconfr/pyconfr-2016
+AFPY_SSH_PORT=4242
 
 VENV := $(shell echo $${VIRTUAL_ENV-$(shell pwd)/.venv})
 VIRTUALENV = virtualenv
@@ -60,6 +61,6 @@ github: publish
 	git push origin $(GITHUB_PAGES_BRANCH) --force
 
 afpy: publish
-	rsync -avz -e ssh $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL)
+	rsync -avz -e "ssh -p $(AFPY_SSH_PORT)" $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL)
 
 .PHONY: html clean serve devserver github publish afpy
