@@ -545,30 +545,29 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <br /><a href="https://www.pycon.fr/2016/videos/gast-daou-naer-ast-pour-python-2-et-3.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rJGycEBkg/thumbnail.jpg"></div><div class="video-label">Regarder "GAST, daou naer - AST pour Python 2 et 3"</div></a></div>
 
           <div class="title" id="Import et Compagnie">Import et Compagnie</div>
-          <div class="description">et hop, "import antigravity", la magie de python résumé en deux mots. mais au fait, comment ça marche ? non, pas l'anti-gravité ça tout le monde l'apprend à l'école. Comment marche les imports en python.
-          Plongeon ensemble dans les entrailles de la bête pour découvrir les bases de cette mécanique, indispensable. une fois un peu plus famillié avec les forces et les faiblesses du système, nous verrons comment nous usons et abusons de sa flexibilité dans le gestionnaire de version Mercurial. Qui n'a jamais rêvé d'importer son code Python 2 directement avec Python 3 ?
+          <div class="description">et hop, "import antigravity", la magie de Python résumée en deux mots. mais au fait, comment ça marche ? non, pas l'anti-gravité -ça tout le monde l'apprend à l'école. Comment fonctionnent les imports en Python ?
+          Plongeons ensemble dans les entrailles de la bête pour découvrir les bases de cette mécanique indispensable. Une fois que nous serons un peu plus familliers avec les forces et les faiblesses du système, nous verrons comment nous usons et abusons de sa flexibilité dans le gestionnaire de version Mercurial. Qui n'a jamais rêvé d'importer son code Python 2 directement avec Python 3 ?
           <br /><a href="https://www.pycon.fr/2016/videos/import-et-compagnie.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/SJoAkBSkg/thumbnail.jpg"></div><div class="video-label">Regarder "Import et Compagnie"</div></a></div>
 
           <div class="title" id="Et si on réécrivait Google en Python ?">Et si on réécrivait Google en Python ?</div>
           <div class="description">Cette année, le premier crawler de Google (écrit en Python 1.2 !) fête ses 20 ans ... Il a depuis longtemps été remplacé par des versions en C++, mais comment s'y prendrait-on, en 2016, s'il fallait tout recommencer de zéro ?
-          Je présenterais en premier temps l'architecture classique des moteurs de recherche (du crawler au frontend) et son évolution depuis le fameux papier de recherche présentant Google en 1998.
-          Je ferais ensuite un tour d'horizon des langages et projets open source les plus adaptés aujourd'hui pour chacun des composants, ainsi que les choix faits pour Common Search, un nouveau moteur de recherche open source écrit principalement en Python.
+          Je présenterai dans en premier temps l'architecture classique des moteurs de recherche (du crawler au frontend) et son évolution depuis le fameux papier de recherche présentant Google en 1998.
+          Je ferai ensuite un tour d'horizon des langages et projets open source les plus adaptés aujourd'hui pour chacun des composants, ainsi que les choix faits pour Common Search, un nouveau moteur de recherche open source écrit principalement en Python.
           Le but de cette présentation est d'apprendre comment fonctionne un moteur de recherche de l'intérieur, ainsi que de réfléchir aux problèmes pour lesquels Python est ou n'est pas une bonne solution.
           <br /><a href="https://www.pycon.fr/2016/videos/et-si-on-reecrivait-google-en-python.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/S19R0JH1x/thumbnail.jpg"></div><div class="video-label">Regarder "Et si on réécrivait Google en Python ?"</div></a></div>
 
           <div class="title" id="Mapping Learning : la cartographie vraiment assistée">Mapping Learning : la cartographie vraiment assistée</div>
           <div class="description">Mapping Learning est à la fois une application et projet éducatif, et présente deux objectifs :
-          - faciliter l’accès aux méthodes évoluées d'apprentissage statistique par des non-informaticiens
-          - amener des étudiants en géographie, en informatique... à contribuer au développement d’une
-          application open-source.
-          Notre volonté est d’assister les utilisateurs dans leurs taches de traitement de données et de cartographie automatisée (à partir de données de télédétection ou autres) en leur donnant accès à un
-          grand nombre d'algorithmes (ex : 19 méthodes de classifications supervisées) peu disponibles dans les logiciels « utilisateurs ». Les utilisateurs/développeurs de méthodes de Machine Learning
-          bénéficieront, quant à eux, d’une manipulation aisée des données géographiques (images ou vectorielles) et pourront y ajouter leurs algorithmes. L’application réalise les principales étapes de
-          manipulation de données (spatialisées ou non) : réduction de dimension, cross-validation, apprentissage, post-traitements. Enfin, elle livre un compte-rendu standardisé et agrémenté de
-          conseils sur l'utilisation optimale des méthodes.
-          Mapping Learning réunit trois  librairies open-source : gdal/ogr (données géographiques), pandas et scikit-learn (machine learning). Plusieurs de nos étudiants utilisent déjà l’application,
-          dans une phase initiale de développement, sur leurs jeux de données. Notre ambition est d'assurer la pérennité de ce projet et nous conclurons en invitant toutes les personnes intéressées à nous
-          rejoindre.</div>
+          <ul>
+          <li> faciliter l’accès aux méthodes évoluées d'apprentissage statistique par des non-informaticiens</li>
+          <li>amener des étudiants en géographie, en informatique... à contribuer au développement d’une application open-source.</li>
+          </ul>
+          Notre volonté est d’assister les utilisateurs dans leurs tâches de traitement de données et de cartographie automatisée (à partir de données de télédétection ou autres) en leur donnant accès à un grand nombre d'algorithmes (ex : 19 méthodes de classifications supervisées) peu disponibles dans les logiciels « utilisateurs ».
+          Les utilisateurs/développeurs de méthodes de Machine Learning bénéficieront, quant à eux, d’une manipulation aisée des données géographiques (images ou vectorielles) et pourront y ajouter leurs algorithmes.
+          L’application réalise les principales étapes de manipulation de données (spatialisées ou non) : réduction de dimension, cross-validation, apprentissage, post-traitements. Enfin, elle livre un compte-rendu standardisé et agrémenté de conseils sur l'utilisation optimale des méthodes.
+          Mapping Learning réunit trois  librairies open-source : <a href="http://www.gdal.org/">gdal/ogr</a> (données géographiques), <a href="http://pandas.pydata.org/">pandas</a> et <a href="http://scikit-learn.org">scikit-learn</a> (machine learning).
+          Plusieurs de nos étudiants utilisent déjà l’application, dans une phase initiale de développement, sur leurs jeux de données. Notre ambition est d'assurer la pérennité de ce projet et nous conclurons en invitant toutes les personnes intéressées à nous rejoindre.
+          </div>
 
           <div class="title" id="Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole">Python for SecOps: recherche de vulnérabilités dans les implémentations d'un protocole</div>
           <div class="description">Les protocoles de communication jouent un rôle majeur dans l'établissement d'une communication entre les différents composants des systèmes informatiques. Malheureusement, il est bien connu que les protocoles de communication peuvent être vulnérables aux attaques. Certaines de ces attaques dépendant de faiblesses introduites (in)volontairements dans leurs implémentations. Ces travaux proposent une solution pratique permettant d'identifier ces faiblesses en utilisant le language Python.
@@ -1005,7 +1004,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
           <br /><a href="https://www.pycon.fr/2016/videos/communiquer-avec-omq-patterns-dutilisation-api-asynchrone-et-securite.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/H1L8i4YJg/thumbnail.jpg"></div><div class="video-label">Regarder "Communiquer avec ØMQ: patterns d'utilisation, API asynchrone et sécurité"</div></a></div>
 
 
-          <div class="title" id="Monkey-Patcher Python en production">Monkey-Patcher Python en production</div><div class="description">Monkey-Patching est difficile, le faire en production l’est encore plus ! Il faut trouver comment entrer dans Python et faire attention aux pièges tendues en ces eaux souvent peu explorées. Nous vous présenterons les solutions que nous avons trouvées et ce qu’il faut éviter de faire quand on monkey-patch du code en production.
+          <div class="title" id="Monkey-Patcher Python en production">Monkey-Patcher Python en production</div><div class="description">Monkey-Patching est difficile, le faire en production l’est encore plus ! Il faut trouver comment entrer dans Python et faire attention aux pièges tendus en ces eaux souvent peu explorées. Nous vous présenterons les solutions que nous avons trouvées et ce qu’il faut éviter de faire quand on monkey-patch du code en production.
           <br /><a href="https://www.pycon.fr/2016/videos/monkey-patcher-python-en-production.html"><div class="video-thumbnail"><img src="https://www.pycon.fr/2016/videos/content/rkiJu3w1x/thumbnail.jpg"></div><div class="video-label">Regarder "Monkey-Patcher Python en production"</div></a>
 	  <br /><a href="https://gitpitch.com/Lothiraldan/python-production-monkey-patching/master?grs=github&t=sky">Support de présentation</a>
 
