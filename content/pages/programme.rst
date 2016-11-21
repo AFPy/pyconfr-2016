@@ -62,7 +62,7 @@ Vous trouverez ci-dessous le programme de la Pycon-Fr 2016.
       <img src="../images/cubanoz.jpg" style="height: 400px">
   </div>
 
-  <div class="section confs">
+  <div id="tocconfs"" class="section confs">
       <h2>Samedi 15 octobre</h2>
 
       <table class="programme legende">
