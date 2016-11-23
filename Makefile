@@ -54,9 +54,10 @@ regenerate:
 
 publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	echo "2016.pycon.fr" > $(OUTPUTDIR)/CNAME
+	cp -fr videos $(OUTPUTDIR)
 
 github: publish
+	echo "2016.pycon.fr" > $(OUTPUTDIR)/CNAME
 	$(VENV)/bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH) --force
 

@@ -46,7 +46,7 @@ MENUITEMS = (
 )
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
-STATIC_PATHS = ['images', 'documents', 'extra/CNAME', ]
+STATIC_PATHS = ['images', 'documents', 'videos', 'extra/CNAME', ]
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
 
 PLUGIN_PATHS = ['plugins']
