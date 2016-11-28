@@ -1,0 +1,38 @@
+Retours Code de Conduite
+========================
+
+:slug: retours-code-de-conduite
+:date: 2016-11-26
+:Summary: Retours sur les incidents traités par le groupe diversité lors de PyConFR
+
+
+Le groupe diversité, késako
+===========================
+
+Suite à l'Assemblée Générale de l'AFPy en 2015, nous avons créé un groupe de travail
+autour des questions sur la diversité. Entre autre, ça inclut de conseiller le bureau
+sur le traitement des incidents lors des événements organisés par l'AFPy.
+Vous pouvez nous contacter via l'alias diversite@afpy.org
+PyConFR 2016 est le premier évévenement qui a requis notre intervention.
+
+
+Incidents
+=========
+
+Deux incidents nous ont été rapportés:
+1. Lors d'une présentation, un des speakers a eu une blague malheureuse signalée le jour même.
+   Les organisateurs ont immédiatement pris contact avec le speaker qui s'est excusé et a réitéré
+   sa bonne compréhension de la charte de l'AFPy.
+   Nous avons décidés de demander à ce que la vidéo soit éditée avant sa mise en ligne
+   (cela ne nuit pas à la compréhension de la vidéo). Nous avons pris contact avec les
+   personnes ayant rapportés l'incident pour les remercier et expliquer notre décision.
+
+2. Un spectateur a été pris faisant un doigt d'honneur à un ami. On lui a rappelé que ce genre
+   de gestes n'était pas le bienvenu lors d'un événement public.
+   Nous avons réfléchi à faire un peu plus de pédagogie autour des comportements à tenir/ne pas tenir
+   lors d'événements multiculturels comme PyConFR (affiche, slides statiques, etc.)
+
+
+De mon point de vue personnel, hormis des faits dont nous n'aurions pas été informé, PyConFR 2016
+s'est déroulé dans de bonnes conditions. Il y a encore des progrés à faire, mais la plupart des
+visiteurs ont conscience qu'un bon comportement est essentiel à la réussite et l'inclusivité de l'évévement.
