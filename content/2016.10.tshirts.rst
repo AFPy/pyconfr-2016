@@ -4,7 +4,7 @@ T-shirts !!
 :slug: t-shirts
 :lang: fr
 :date: 2016-10-08
-:og_url: https://2016.pycon.fr/t-shirts.html
+:og_url: https://www.pycon.fr/2016/t-shirts.html
 :og_type: website
 :og_title: T-shirts
 :og_description: Teasing sur les T-shirts Pycon-Fr 2016

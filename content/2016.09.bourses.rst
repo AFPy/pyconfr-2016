@@ -4,7 +4,7 @@ Offres de bourses
 :slug: offres-de-bourses
 :lang: fr
 :date: 2016-09-01
-:og_url: https://2016.pycon.fr/offres-de-bourses.html
+:og_url: https://www.pycon.fr/2016/offres-de-bourses.html
 :og_type: website
 :og_title: Offres de bourses
 :og_description:  L'AFPy propose des bourses pour aider les personnes avec peu de moyens à venir à la conférence

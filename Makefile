@@ -56,11 +56,6 @@ publish: install
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	cp -fr videos $(OUTPUTDIR)
 
-github: publish
-	echo "2016.pycon.fr" > $(OUTPUTDIR)/CNAME
-	$(VENV)/bin/ghp-import -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_PAGES_BRANCH) --force
-
 afpy: publish
 	rsync -avz -e "ssh -p $(AFPY_SSH_PORT)" $(AFPY_OUTPUTDIR) $(AFPY_PUBLISH_URL)
 
