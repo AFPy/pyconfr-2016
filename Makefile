@@ -9,11 +9,11 @@ PUBLISHCONF=$(BASEDIR)/publishconf.py
 GITHUB_PAGES_BRANCH=gh-pages
 
 AFPY_OUTPUTDIR=$(BASEDIR)/output/
-AFPY_PUBLISH_URL=pyconfr@pycon.fr:/usr/home/pyconfr/pyconfr-2016
-AFPY_SSH_PORT=4242
+AFPY_PUBLISH_URL=root@deb2.afpy.org:/var/www/pycon.fr/2016/
+AFPY_SSH_PORT=80
 
 VENV := $(shell echo $${VIRTUAL_ENV-$(shell pwd)/.venv})
-VIRTUALENV = virtualenv
+VIRTUALENV = python -m venv
 INSTALL_STAMP = $(VENV)/.install.stamp
 
 PYTHON=$(VENV)/bin/python
